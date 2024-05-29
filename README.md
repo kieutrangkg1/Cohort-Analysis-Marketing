@@ -2,7 +2,7 @@
 ![image](https://github.com/kieutrangkg1/Cohort-Analysis-Marketing/assets/168499660/c7f79f72-faa9-4002-8363-4779ab12b075)
 
 # Bussiness Objective: 
-The project is about know user retention rate
+The project is about knowing user retention rate
 # Dataset:
 
 * InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
